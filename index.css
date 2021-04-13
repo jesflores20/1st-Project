@@ -2,3 +2,11 @@ p {
     font-weight: bold;
     color: crimson;
 }
+
+.blue-text {
+    color: cyan;
+}
+
+#special {
+    text-decoration: underline;
+}
